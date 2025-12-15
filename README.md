@@ -20,7 +20,7 @@ HTML
 
 CSS
 
-JavaScript
+JavaScript (We can use)
 
 Purpose
 
