@@ -20,7 +20,7 @@ HTML
 
 CSS
 
-JavaScript (if applicable)
+JavaScript
 
 Purpose
 
